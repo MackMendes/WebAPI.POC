@@ -1,0 +1,8 @@
+E:\GitHub\WebAPI.POC\WindApp_POC\bin\Debug\WindApp_POC.exe.config
+E:\GitHub\WebAPI.POC\WindApp_POC\bin\Debug\WindApp_POC.exe
+E:\GitHub\WebAPI.POC\WindApp_POC\bin\Debug\WindApp_POC.pdb
+E:\GitHub\WebAPI.POC\WindApp_POC\obj\Debug\WindApp_POC.csprojResolveAssemblyReference.cache
+E:\GitHub\WebAPI.POC\WindApp_POC\obj\Debug\WindApp_POC.Properties.Resources.resources
+E:\GitHub\WebAPI.POC\WindApp_POC\obj\Debug\WindApp_POC.csproj.GenerateResource.Cache
+E:\GitHub\WebAPI.POC\WindApp_POC\obj\Debug\WindApp_POC.exe
+E:\GitHub\WebAPI.POC\WindApp_POC\obj\Debug\WindApp_POC.pdb

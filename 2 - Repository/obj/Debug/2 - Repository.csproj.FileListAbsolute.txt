@@ -1,0 +1,16 @@
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\2 - Repository\bin\Debug\Repository.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\2 - Repository\bin\Debug\Repository.pdb
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\2 - Repository\bin\Debug\Domain.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\2 - Repository\bin\Debug\FizzWare.NBuilder.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\2 - Repository\bin\Debug\Domain.pdb
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\2 - Repository\obj\Debug\2 - Repository.csprojResolveAssemblyReference.cache
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\2 - Repository\obj\Debug\Repository.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\2 - Repository\obj\Debug\Repository.pdb
+E:\GitHub\WebAPI.POC\2 - Repository\bin\Debug\Repository.dll
+E:\GitHub\WebAPI.POC\2 - Repository\bin\Debug\Repository.pdb
+E:\GitHub\WebAPI.POC\2 - Repository\bin\Debug\Domain.dll
+E:\GitHub\WebAPI.POC\2 - Repository\bin\Debug\FizzWare.NBuilder.dll
+E:\GitHub\WebAPI.POC\2 - Repository\bin\Debug\Domain.pdb
+E:\GitHub\WebAPI.POC\2 - Repository\obj\Debug\2 - Repository.csprojResolveAssemblyReference.cache
+E:\GitHub\WebAPI.POC\2 - Repository\obj\Debug\Repository.dll
+E:\GitHub\WebAPI.POC\2 - Repository\obj\Debug\Repository.pdb

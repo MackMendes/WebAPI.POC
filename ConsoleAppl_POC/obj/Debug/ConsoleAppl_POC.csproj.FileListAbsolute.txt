@@ -1,0 +1,18 @@
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\ConsoleAppl_POC\bin\Debug\ConsoleAppl_POC.exe.config
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\ConsoleAppl_POC\bin\Debug\ConsoleAppl_POC.exe
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\ConsoleAppl_POC\bin\Debug\ConsoleAppl_POC.pdb
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\ConsoleAppl_POC\bin\Debug\Domain.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\ConsoleAppl_POC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\ConsoleAppl_POC\bin\Debug\Domain.pdb
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\ConsoleAppl_POC\obj\Debug\ConsoleAppl_POC.csprojResolveAssemblyReference.cache
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\ConsoleAppl_POC\obj\Debug\ConsoleAppl_POC.exe
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\ConsoleAppl_POC\obj\Debug\ConsoleAppl_POC.pdb
+E:\GitHub\WebAPI.POC\ConsoleAppl_POC\bin\Debug\ConsoleAppl_POC.exe.config
+E:\GitHub\WebAPI.POC\ConsoleAppl_POC\bin\Debug\ConsoleAppl_POC.exe
+E:\GitHub\WebAPI.POC\ConsoleAppl_POC\bin\Debug\ConsoleAppl_POC.pdb
+E:\GitHub\WebAPI.POC\ConsoleAppl_POC\bin\Debug\Domain.dll
+E:\GitHub\WebAPI.POC\ConsoleAppl_POC\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\WebAPI.POC\ConsoleAppl_POC\bin\Debug\Domain.pdb
+E:\GitHub\WebAPI.POC\ConsoleAppl_POC\obj\Debug\ConsoleAppl_POC.csprojResolveAssemblyReference.cache
+E:\GitHub\WebAPI.POC\ConsoleAppl_POC\obj\Debug\ConsoleAppl_POC.exe
+E:\GitHub\WebAPI.POC\ConsoleAppl_POC\obj\Debug\ConsoleAppl_POC.pdb

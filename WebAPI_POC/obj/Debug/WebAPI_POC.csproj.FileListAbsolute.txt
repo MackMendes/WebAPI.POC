@@ -1,0 +1,74 @@
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\WebAPI_POC.dll.config
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\WebAPI_POC.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\WebAPI_POC.pdb
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\Antlr3.Runtime.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\Domain.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\Newtonsoft.Json.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\Repository.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Net.Http.Formatting.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.Helpers.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.Http.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.Http.WebHost.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.Mvc.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.Optimization.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.Razor.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.WebPages.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.WebPages.Razor.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\WebGrease.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\FizzWare.NBuilder.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\Repository.pdb
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\Domain.pdb
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\Newtonsoft.Json.xml
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Net.Http.Formatting.xml
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.Helpers.xml
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.Http.xml
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.Http.WebHost.xml
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.Mvc.xml
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.Optimization.xml
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.Razor.xml
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.WebPages.xml
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\System.Web.WebPages.Razor.xml
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\bin\Antlr3.Runtime.pdb
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\obj\Debug\WebAPI_POC.csprojResolveAssemblyReference.cache
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\obj\Debug\WebAPI_POC.dll
+C:\Users\charles.macedo\Desktop\Projeto Pessoal\WebAPI_POC\WebAPI_POC\obj\Debug\WebAPI_POC.pdb
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\WebAPI_POC.dll.config
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\WebAPI_POC.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\WebAPI_POC.pdb
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\Antlr3.Runtime.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\Domain.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\Newtonsoft.Json.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\Repository.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Net.Http.Formatting.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.Helpers.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.Http.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.Http.WebHost.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.Mvc.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.Optimization.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.Razor.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.WebPages.Deployment.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.WebPages.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.WebPages.Razor.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\WebGrease.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\FizzWare.NBuilder.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\Repository.pdb
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\Domain.pdb
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\Newtonsoft.Json.xml
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Net.Http.Formatting.xml
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.Helpers.xml
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.Http.xml
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.Http.WebHost.xml
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.Mvc.xml
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.Optimization.xml
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.Razor.xml
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.WebPages.xml
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.WebPages.Deployment.xml
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\System.Web.WebPages.Razor.xml
+E:\GitHub\WebAPI.POC\WebAPI_POC\bin\Antlr3.Runtime.pdb
+E:\GitHub\WebAPI.POC\WebAPI_POC\obj\Debug\WebAPI_POC.csprojResolveAssemblyReference.cache
+E:\GitHub\WebAPI.POC\WebAPI_POC\obj\Debug\WebAPI_POC.dll
+E:\GitHub\WebAPI.POC\WebAPI_POC\obj\Debug\WebAPI_POC.pdb

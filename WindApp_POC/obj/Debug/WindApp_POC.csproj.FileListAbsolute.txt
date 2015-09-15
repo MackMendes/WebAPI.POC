@@ -6,3 +6,7 @@ E:\GitHub\WebAPI.POC\WindApp_POC\obj\Debug\WindApp_POC.Properties.Resources.reso
 E:\GitHub\WebAPI.POC\WindApp_POC\obj\Debug\WindApp_POC.csproj.GenerateResource.Cache
 E:\GitHub\WebAPI.POC\WindApp_POC\obj\Debug\WindApp_POC.exe
 E:\GitHub\WebAPI.POC\WindApp_POC\obj\Debug\WindApp_POC.pdb
+E:\GitHub\WebAPI.POC\WindApp_POC\bin\Debug\Domain.dll
+E:\GitHub\WebAPI.POC\WindApp_POC\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\WebAPI.POC\WindApp_POC\bin\Debug\Domain.pdb
+E:\GitHub\WebAPI.POC\WindApp_POC\obj\Debug\WindApp_POC.FormConsumeWebAPI.resources

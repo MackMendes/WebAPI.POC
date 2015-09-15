@@ -1,10 +1,6 @@
-﻿using ConsoleAppl_POC.AppService;
+using ConsoleAppl_POC.AppService;
 using Domain.Entities;
 using System;
-using System.Collections.Generic;
-using System.Net.Http;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleAppl_POC
 {
@@ -17,7 +13,6 @@ namespace ConsoleAppl_POC
         private static readonly WebAPICliente _webAPICliente = new WebAPICliente();
 
         #endregion
-
 
         #region Main
 
@@ -46,7 +41,6 @@ namespace ConsoleAppl_POC
         }
 
         #endregion
-
 
         #region Method Private
 
@@ -92,6 +86,5 @@ namespace ConsoleAppl_POC
         }
 
         #endregion
-
     }
 }

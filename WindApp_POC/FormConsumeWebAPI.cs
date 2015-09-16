@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Domain.Entities;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -22,7 +23,9 @@ namespace WindApp_POC
 
         private void btnConsultar_Click(object sender, EventArgs e)
         {
-            bindingSourceConsultar.DataSource = _webAPICliente.GetAllByHttpClient().Result;
+            ICollection<Cliente> result = _webAPICliente.GetAllByHttpClient().Result;
+
+            bindingSourceConsultar.DataSource = result;
         }
     }
 }

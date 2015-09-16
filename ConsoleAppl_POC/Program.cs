@@ -26,19 +26,19 @@ namespace ConsoleAppl_POC
             var dateNow = DateTime.Now;
             _minutoInicial = SetDate(dateNow);
 
-            // Verifica performance de pegar vários registros pelo WebAPI
-            //Parallel.For(0, 3000, x =>
-            //{
-            //    _webAPICliente.GetAllByHttpClient(x);
-            //});
+            //Verifica performance de pegar vários registros pelo WebAPI
+            Parallel.For(0, 100, x =>
+            {
+                _webAPICliente.GetAllByHttpClient(x);
+            });
 
             // Pegar um cliente por ID
             //GetClienteByID();
 
             // Deu Ruim...
-            InsertCliente();
+            //InsertCliente();
 
-            //
+            // Delete
             //DeleteClienteByID();
 
             Console.WriteLine("Pressione qualquer tecla para SAIR...");
